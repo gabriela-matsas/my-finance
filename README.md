@@ -62,3 +62,5 @@ A simple app to track your personal finances and quickly calculate basic operati
 
 ## License / Licença
 
+MIT License
+
