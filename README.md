@@ -2,10 +2,10 @@ repositório:
 
 # MyFinance | Personal Tracker & Calculator
 
-[🌐 See it live / Veja ao vivo]: https://69b1c04a738ad26c44b323f7--statuesque-granita-524fa1.netlify.app/
-
 Aplicativo simples para acompanhar suas finanças pessoais e calcular rapidamente operações básicas.  
 A simple app to track your personal finances and quickly calculate basic operations.
+
+[🌐 See it live / Veja ao vivo]: https://69b1c04a738ad26c44b323f7--statuesque-granita-524fa1.netlify.app/
 
 ---
 
